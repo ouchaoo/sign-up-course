@@ -4,6 +4,6 @@
 ``` javascript
 var e = document.createElement("script");
 e.type="text/javascript";
-e.src="https://cdn.jsdelivr.net/gh/ouchaoo/sign-up-course@master/index-V0.1.js";
+e.src="https://cdn.jsdelivr.net/gh/ouchaoo/sign-up-course@master/index-V1.0.js";
 document.body.appendChild(e)
 ```
